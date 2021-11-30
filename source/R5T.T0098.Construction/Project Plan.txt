@@ -1,0 +1,3 @@
+R5T.T0098.Construction - Construction project for IOperation extension method base library..
+
+GOALS:
